@@ -1,1 +1,3 @@
 # pdfReader
+
+pip install pdfplumber
