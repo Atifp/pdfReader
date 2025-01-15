@@ -1,7 +1,7 @@
 [
     {
         "date": "01 January 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "1",
         "beginning_times": {
             "fajr": "6:36",
@@ -21,7 +21,7 @@
     },
     {
         "date": "02 January 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "2",
         "beginning_times": {
             "fajr": "6:36",
@@ -41,7 +41,7 @@
     },
     {
         "date": "03 January 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "3",
         "beginning_times": {
             "fajr": "6:36",
@@ -61,7 +61,7 @@
     },
     {
         "date": "04 January 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "4",
         "beginning_times": {
             "fajr": "6:36",
@@ -81,7 +81,7 @@
     },
     {
         "date": "05 January 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "5",
         "beginning_times": {
             "fajr": "6:36",
@@ -101,7 +101,7 @@
     },
     {
         "date": "06 January 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "6",
         "beginning_times": {
             "fajr": "6:35",
@@ -121,7 +121,7 @@
     },
     {
         "date": "07 January 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "7",
         "beginning_times": {
             "fajr": "6:35",
@@ -141,7 +141,7 @@
     },
     {
         "date": "08 January 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "8",
         "beginning_times": {
             "fajr": "6:35",
@@ -161,7 +161,7 @@
     },
     {
         "date": "09 January 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "9",
         "beginning_times": {
             "fajr": "6:34",
@@ -181,7 +181,7 @@
     },
     {
         "date": "10 January 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "10",
         "beginning_times": {
             "fajr": "6:34",
@@ -201,7 +201,7 @@
     },
     {
         "date": "11 January 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "11",
         "beginning_times": {
             "fajr": "6:33",
@@ -221,7 +221,7 @@
     },
     {
         "date": "12 January 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "12",
         "beginning_times": {
             "fajr": "6:33",
@@ -241,7 +241,7 @@
     },
     {
         "date": "13 January 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "13",
         "beginning_times": {
             "fajr": "6:32",
@@ -261,7 +261,7 @@
     },
     {
         "date": "14 January 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "14",
         "beginning_times": {
             "fajr": "6:31",
@@ -281,7 +281,7 @@
     },
     {
         "date": "15 January 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "15",
         "beginning_times": {
             "fajr": "6:31",
@@ -301,7 +301,7 @@
     },
     {
         "date": "16 January 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "16",
         "beginning_times": {
             "fajr": "6:30",
@@ -321,7 +321,7 @@
     },
     {
         "date": "17 January 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "17",
         "beginning_times": {
             "fajr": "6:29",
@@ -341,7 +341,7 @@
     },
     {
         "date": "18 January 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "18",
         "beginning_times": {
             "fajr": "6:28",
@@ -361,7 +361,7 @@
     },
     {
         "date": "19 January 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "19",
         "beginning_times": {
             "fajr": "6:28",
@@ -381,7 +381,7 @@
     },
     {
         "date": "20 January 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "20",
         "beginning_times": {
             "fajr": "6:27",
@@ -401,7 +401,7 @@
     },
     {
         "date": "21 January 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "21",
         "beginning_times": {
             "fajr": "6:26",
@@ -421,7 +421,7 @@
     },
     {
         "date": "22 January 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "22",
         "beginning_times": {
             "fajr": "6:25",
@@ -441,7 +441,7 @@
     },
     {
         "date": "23 January 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "23",
         "beginning_times": {
             "fajr": "6:24",
@@ -461,7 +461,7 @@
     },
     {
         "date": "24 January 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "24",
         "beginning_times": {
             "fajr": "6:22",
@@ -481,7 +481,7 @@
     },
     {
         "date": "25 January 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "25",
         "beginning_times": {
             "fajr": "6:21",
@@ -501,7 +501,7 @@
     },
     {
         "date": "26 January 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "26",
         "beginning_times": {
             "fajr": "6:20",
@@ -521,7 +521,7 @@
     },
     {
         "date": "27 January 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "27*",
         "beginning_times": {
             "fajr": "6:19",
@@ -541,7 +541,7 @@
     },
     {
         "date": "28 January 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "28",
         "beginning_times": {
             "fajr": "6:18",
@@ -561,7 +561,7 @@
     },
     {
         "date": "29 January 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "29",
         "beginning_times": {
             "fajr": "6:16",
@@ -581,7 +581,7 @@
     },
     {
         "date": "30 January 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "30",
         "beginning_times": {
             "fajr": "6:15",
@@ -601,7 +601,7 @@
     },
     {
         "date": "31 January 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "1",
         "beginning_times": {
             "fajr": "6:12",
@@ -621,7 +621,7 @@
     },
     {
         "date": "01 February 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "2",
         "beginning_times": {
             "fajr": "6:12",
@@ -641,7 +641,7 @@
     },
     {
         "date": "02 February 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "3",
         "beginning_times": {
             "fajr": "6:10",
@@ -661,7 +661,7 @@
     },
     {
         "date": "03 February 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "4",
         "beginning_times": {
             "fajr": "6:08",
@@ -681,7 +681,7 @@
     },
     {
         "date": "04 February 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "5",
         "beginning_times": {
             "fajr": "6:06",
@@ -701,7 +701,7 @@
     },
     {
         "date": "05 February 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "6",
         "beginning_times": {
             "fajr": "6:05",
@@ -721,7 +721,7 @@
     },
     {
         "date": "06 February 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "7",
         "beginning_times": {
             "fajr": "6:03",
@@ -741,7 +741,7 @@
     },
     {
         "date": "07 February 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "8",
         "beginning_times": {
             "fajr": "6:01",
@@ -761,7 +761,7 @@
     },
     {
         "date": "08 February 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "9",
         "beginning_times": {
             "fajr": "5:59",
@@ -781,7 +781,7 @@
     },
     {
         "date": "09 February 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "10",
         "beginning_times": {
             "fajr": "5:57",
@@ -801,7 +801,7 @@
     },
     {
         "date": "10 February 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "11",
         "beginning_times": {
             "fajr": "5:55",
@@ -821,7 +821,7 @@
     },
     {
         "date": "11 February 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "12",
         "beginning_times": {
             "fajr": "5:53",
@@ -841,7 +841,7 @@
     },
     {
         "date": "12 February 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "13",
         "beginning_times": {
             "fajr": "5:51",
@@ -861,7 +861,7 @@
     },
     {
         "date": "13 February 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "14*",
         "beginning_times": {
             "fajr": "5:49",
@@ -881,7 +881,7 @@
     },
     {
         "date": "14 February 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "15",
         "beginning_times": {
             "fajr": "5:47",
@@ -901,7 +901,7 @@
     },
     {
         "date": "15 February 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "16",
         "beginning_times": {
             "fajr": "5:45",
@@ -921,7 +921,7 @@
     },
     {
         "date": "16 February 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "17",
         "beginning_times": {
             "fajr": "5:43",
@@ -941,7 +941,7 @@
     },
     {
         "date": "17 February 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "18",
         "beginning_times": {
             "fajr": "5:41",
@@ -961,7 +961,7 @@
     },
     {
         "date": "18 February 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "19",
         "beginning_times": {
             "fajr": "5:38",
@@ -981,7 +981,7 @@
     },
     {
         "date": "19 February 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "20",
         "beginning_times": {
             "fajr": "5:36",
@@ -1001,7 +1001,7 @@
     },
     {
         "date": "20 February 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "21",
         "beginning_times": {
             "fajr": "5:34",
@@ -1021,7 +1021,7 @@
     },
     {
         "date": "21 February 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "22",
         "beginning_times": {
             "fajr": "5:32",
@@ -1041,7 +1041,7 @@
     },
     {
         "date": "22 February 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "23",
         "beginning_times": {
             "fajr": "5:30",
@@ -1061,7 +1061,7 @@
     },
     {
         "date": "23 February 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "24",
         "beginning_times": {
             "fajr": "5:27",
@@ -1081,7 +1081,7 @@
     },
     {
         "date": "24 February 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "25",
         "beginning_times": {
             "fajr": "5:25",
@@ -1101,7 +1101,7 @@
     },
     {
         "date": "25 February 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "26",
         "beginning_times": {
             "fajr": "5:23",
@@ -1121,7 +1121,7 @@
     },
     {
         "date": "26 February 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "27",
         "beginning_times": {
             "fajr": "5:21",
@@ -1141,7 +1141,7 @@
     },
     {
         "date": "27 February 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "28",
         "beginning_times": {
             "fajr": "5:18",
@@ -1161,7 +1161,7 @@
     },
     {
         "date": "28 February 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "29",
         "beginning_times": {
             "fajr": "5:14",
@@ -1181,7 +1181,7 @@
     },
     {
         "date": "01 March 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "1",
         "beginning_times": {
             "fajr": "5:14",
@@ -1201,7 +1201,7 @@
     },
     {
         "date": "02 March 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "2",
         "beginning_times": {
             "fajr": "5:11",
@@ -1221,7 +1221,7 @@
     },
     {
         "date": "03 March 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "3",
         "beginning_times": {
             "fajr": "5:09",
@@ -1241,7 +1241,7 @@
     },
     {
         "date": "04 March 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "4",
         "beginning_times": {
             "fajr": "5:07",
@@ -1261,7 +1261,7 @@
     },
     {
         "date": "05 March 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "5",
         "beginning_times": {
             "fajr": "5:04",
@@ -1281,7 +1281,7 @@
     },
     {
         "date": "06 March 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "6",
         "beginning_times": {
             "fajr": "5:02",
@@ -1301,7 +1301,7 @@
     },
     {
         "date": "07 March 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "7",
         "beginning_times": {
             "fajr": "5:00",
@@ -1321,7 +1321,7 @@
     },
     {
         "date": "08 March 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "8",
         "beginning_times": {
             "fajr": "4:57",
@@ -1341,7 +1341,7 @@
     },
     {
         "date": "09 March 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "9",
         "beginning_times": {
             "fajr": "4:55",
@@ -1361,7 +1361,7 @@
     },
     {
         "date": "10 March 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "10",
         "beginning_times": {
             "fajr": "4:52",
@@ -1381,7 +1381,7 @@
     },
     {
         "date": "11 March 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "11",
         "beginning_times": {
             "fajr": "4:50",
@@ -1401,7 +1401,7 @@
     },
     {
         "date": "12 March 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "12",
         "beginning_times": {
             "fajr": "4:48",
@@ -1421,7 +1421,7 @@
     },
     {
         "date": "13 March 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "13",
         "beginning_times": {
             "fajr": "4:45",
@@ -1441,7 +1441,7 @@
     },
     {
         "date": "14 March 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "14",
         "beginning_times": {
             "fajr": "4:43",
@@ -1461,7 +1461,7 @@
     },
     {
         "date": "15 March 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "15",
         "beginning_times": {
             "fajr": "4:40",
@@ -1481,7 +1481,7 @@
     },
     {
         "date": "16 March 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "16",
         "beginning_times": {
             "fajr": "4:38",
@@ -1501,7 +1501,7 @@
     },
     {
         "date": "17 March 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "17",
         "beginning_times": {
             "fajr": "4:36",
@@ -1521,7 +1521,7 @@
     },
     {
         "date": "18 March 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "18",
         "beginning_times": {
             "fajr": "4:33",
@@ -1541,7 +1541,7 @@
     },
     {
         "date": "19 March 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "19",
         "beginning_times": {
             "fajr": "4:32",
@@ -1561,7 +1561,7 @@
     },
     {
         "date": "20 March 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "20",
         "beginning_times": {
             "fajr": "4:29",
@@ -1581,7 +1581,7 @@
     },
     {
         "date": "21 March 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "21",
         "beginning_times": {
             "fajr": "4:28",
@@ -1601,7 +1601,7 @@
     },
     {
         "date": "22 March 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "22",
         "beginning_times": {
             "fajr": "4:25",
@@ -1621,7 +1621,7 @@
     },
     {
         "date": "23 March 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "23",
         "beginning_times": {
             "fajr": "4:23",
@@ -1641,7 +1641,7 @@
     },
     {
         "date": "24 March 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "24",
         "beginning_times": {
             "fajr": "4:20",
@@ -1661,7 +1661,7 @@
     },
     {
         "date": "25 March 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "25",
         "beginning_times": {
             "fajr": "4:19",
@@ -1681,7 +1681,7 @@
     },
     {
         "date": "26 March 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "26",
         "beginning_times": {
             "fajr": "4:17",
@@ -1701,7 +1701,7 @@
     },
     {
         "date": "27 March 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "27",
         "beginning_times": {
             "fajr": "4:15",
@@ -1721,7 +1721,7 @@
     },
     {
         "date": "28 March 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "28",
         "beginning_times": {
             "fajr": "4:13",
@@ -1741,7 +1741,7 @@
     },
     {
         "date": "29 March 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "29",
         "beginning_times": {
             "fajr": "4:10",
@@ -1761,7 +1761,7 @@
     },
     {
         "date": "31 March 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "2",
         "beginning_times": {
             "fajr": "5:04",
@@ -1781,7 +1781,7 @@
     },
     {
         "date": "01 April 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "3",
         "beginning_times": {
             "fajr": "5:04",
@@ -1801,7 +1801,7 @@
     },
     {
         "date": "02 April 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "4",
         "beginning_times": {
             "fajr": "5:02",
@@ -1821,7 +1821,7 @@
     },
     {
         "date": "03 April 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "5",
         "beginning_times": {
             "fajr": "4:59",
@@ -1841,7 +1841,7 @@
     },
     {
         "date": "04 April 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "6",
         "beginning_times": {
             "fajr": "4:57",
@@ -1861,7 +1861,7 @@
     },
     {
         "date": "05 April 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "7",
         "beginning_times": {
             "fajr": "4:54",
@@ -1881,7 +1881,7 @@
     },
     {
         "date": "06 April 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "8",
         "beginning_times": {
             "fajr": "4:52",
@@ -1901,7 +1901,7 @@
     },
     {
         "date": "07 April 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "9",
         "beginning_times": {
             "fajr": "4:50",
@@ -1921,7 +1921,7 @@
     },
     {
         "date": "08 April 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "10",
         "beginning_times": {
             "fajr": "4:47",
@@ -1941,7 +1941,7 @@
     },
     {
         "date": "09 April 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "11",
         "beginning_times": {
             "fajr": "4:45",
@@ -1961,7 +1961,7 @@
     },
     {
         "date": "10 April 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "12",
         "beginning_times": {
             "fajr": "4:43",
@@ -1981,7 +1981,7 @@
     },
     {
         "date": "11 April 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "13",
         "beginning_times": {
             "fajr": "4:40",
@@ -2001,7 +2001,7 @@
     },
     {
         "date": "12 April 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "14",
         "beginning_times": {
             "fajr": "4:38",
@@ -2021,7 +2021,7 @@
     },
     {
         "date": "13 April 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "15",
         "beginning_times": {
             "fajr": "4:35",
@@ -2041,7 +2041,7 @@
     },
     {
         "date": "14 April 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "16",
         "beginning_times": {
             "fajr": "4:33",
@@ -2061,7 +2061,7 @@
     },
     {
         "date": "15 April 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "17",
         "beginning_times": {
             "fajr": "4:31",
@@ -2081,7 +2081,7 @@
     },
     {
         "date": "16 April 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "18",
         "beginning_times": {
             "fajr": "4:29",
@@ -2101,7 +2101,7 @@
     },
     {
         "date": "17 April 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "19",
         "beginning_times": {
             "fajr": "4:25",
@@ -2121,7 +2121,7 @@
     },
     {
         "date": "18 April 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "20",
         "beginning_times": {
             "fajr": "4:23",
@@ -2141,7 +2141,7 @@
     },
     {
         "date": "19 April 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "21",
         "beginning_times": {
             "fajr": "4:21",
@@ -2161,7 +2161,7 @@
     },
     {
         "date": "20 April 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "22",
         "beginning_times": {
             "fajr": "4:18",
@@ -2181,7 +2181,7 @@
     },
     {
         "date": "21 April 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "23",
         "beginning_times": {
             "fajr": "4:15",
@@ -2201,7 +2201,7 @@
     },
     {
         "date": "22 April 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "24",
         "beginning_times": {
             "fajr": "4:13",
@@ -2221,7 +2221,7 @@
     },
     {
         "date": "23 April 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "25",
         "beginning_times": {
             "fajr": "4:10",
@@ -2241,7 +2241,7 @@
     },
     {
         "date": "24 April 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "26",
         "beginning_times": {
             "fajr": "4:08",
@@ -2261,7 +2261,7 @@
     },
     {
         "date": "25 April 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "27",
         "beginning_times": {
             "fajr": "4:06",
@@ -2281,7 +2281,7 @@
     },
     {
         "date": "26 April 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "28",
         "beginning_times": {
             "fajr": "4:02",
@@ -2301,7 +2301,7 @@
     },
     {
         "date": "27 April 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "29",
         "beginning_times": {
             "fajr": "4:00",
@@ -2321,7 +2321,7 @@
     },
     {
         "date": "28 April 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "30",
         "beginning_times": {
             "fajr": "3:58",
@@ -2341,7 +2341,7 @@
     },
     {
         "date": "29 April 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "1",
         "beginning_times": {
             "fajr": "Z.QDH",
@@ -2361,7 +2361,7 @@
     },
     {
         "date": "30 April 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "2",
         "beginning_times": {
             "fajr": "3:50",
@@ -2381,7 +2381,7 @@
     },
     {
         "date": "01 May 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "3",
         "beginning_times": {
             "fajr": "3:50",
@@ -2401,7 +2401,7 @@
     },
     {
         "date": "02 May 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "4",
         "beginning_times": {
             "fajr": "3:47",
@@ -2421,7 +2421,7 @@
     },
     {
         "date": "03 May 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "5",
         "beginning_times": {
             "fajr": "3:45",
@@ -2441,7 +2441,7 @@
     },
     {
         "date": "04 May 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "6",
         "beginning_times": {
             "fajr": "3:42",
@@ -2461,7 +2461,7 @@
     },
     {
         "date": "05 May 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "7",
         "beginning_times": {
             "fajr": "3:40",
@@ -2481,7 +2481,7 @@
     },
     {
         "date": "06 May 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "8",
         "beginning_times": {
             "fajr": "3:37",
@@ -2501,7 +2501,7 @@
     },
     {
         "date": "07 May 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "9",
         "beginning_times": {
             "fajr": "3:35",
@@ -2521,7 +2521,7 @@
     },
     {
         "date": "08 May 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "10",
         "beginning_times": {
             "fajr": "3:33",
@@ -2541,7 +2541,7 @@
     },
     {
         "date": "09 May 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "11",
         "beginning_times": {
             "fajr": "3:31",
@@ -2561,7 +2561,7 @@
     },
     {
         "date": "10 May 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "12",
         "beginning_times": {
             "fajr": "3:28",
@@ -2581,7 +2581,7 @@
     },
     {
         "date": "11 May 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "13",
         "beginning_times": {
             "fajr": "3:26",
@@ -2601,7 +2601,7 @@
     },
     {
         "date": "12 May 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "14",
         "beginning_times": {
             "fajr": "3:23",
@@ -2621,7 +2621,7 @@
     },
     {
         "date": "13 May 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "15",
         "beginning_times": {
             "fajr": "3:22",
@@ -2641,7 +2641,7 @@
     },
     {
         "date": "14 May 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "16",
         "beginning_times": {
             "fajr": "3:19",
@@ -2661,7 +2661,7 @@
     },
     {
         "date": "15 May 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "17",
         "beginning_times": {
             "fajr": "3:17",
@@ -2681,7 +2681,7 @@
     },
     {
         "date": "16 May 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "18",
         "beginning_times": {
             "fajr": "3:15",
@@ -2701,7 +2701,7 @@
     },
     {
         "date": "17 May 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "19",
         "beginning_times": {
             "fajr": "3:13",
@@ -2721,7 +2721,7 @@
     },
     {
         "date": "18 May 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "20",
         "beginning_times": {
             "fajr": "3:11",
@@ -2741,7 +2741,7 @@
     },
     {
         "date": "19 May 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "21",
         "beginning_times": {
             "fajr": "3:09",
@@ -2761,7 +2761,7 @@
     },
     {
         "date": "20 May 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "22",
         "beginning_times": {
             "fajr": "3:07",
@@ -2781,7 +2781,7 @@
     },
     {
         "date": "21 May 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "23",
         "beginning_times": {
             "fajr": "3:06",
@@ -2801,7 +2801,7 @@
     },
     {
         "date": "22 May 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "24",
         "beginning_times": {
             "fajr": "3:03",
@@ -2821,7 +2821,7 @@
     },
     {
         "date": "23 May 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "25",
         "beginning_times": {
             "fajr": "3:01",
@@ -2841,7 +2841,7 @@
     },
     {
         "date": "24 May 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "26",
         "beginning_times": {
             "fajr": "2:59",
@@ -2861,7 +2861,7 @@
     },
     {
         "date": "25 May 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "27",
         "beginning_times": {
             "fajr": "2:57",
@@ -2881,7 +2881,7 @@
     },
     {
         "date": "26 May 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "28",
         "beginning_times": {
             "fajr": "2:55",
@@ -2901,7 +2901,7 @@
     },
     {
         "date": "27 May 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "29",
         "beginning_times": {
             "fajr": "2:54",
@@ -2921,7 +2921,7 @@
     },
     {
         "date": "28 May 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "1",
         "beginning_times": {
             "fajr": "Z.HAJJ",
@@ -2941,7 +2941,7 @@
     },
     {
         "date": "29 May 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "2",
         "beginning_times": {
             "fajr": "2:51",
@@ -2961,7 +2961,7 @@
     },
     {
         "date": "30 May 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "3",
         "beginning_times": {
             "fajr": "2:49",
@@ -2981,7 +2981,7 @@
     },
     {
         "date": "31 May 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "4",
         "beginning_times": {
             "fajr": "2:46",
@@ -3001,7 +3001,7 @@
     },
     {
         "date": "01 June 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "5",
         "beginning_times": {
             "fajr": "2:46",
@@ -3021,7 +3021,7 @@
     },
     {
         "date": "02 June 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "6",
         "beginning_times": {
             "fajr": "2:45",
@@ -3041,7 +3041,7 @@
     },
     {
         "date": "03 June 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "7",
         "beginning_times": {
             "fajr": "2:44",
@@ -3061,7 +3061,7 @@
     },
     {
         "date": "04 June 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "8",
         "beginning_times": {
             "fajr": "2:43",
@@ -3081,7 +3081,7 @@
     },
     {
         "date": "05 June 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "9",
         "beginning_times": {
             "fajr": "2:41",
@@ -3101,7 +3101,7 @@
     },
     {
         "date": "06 June 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "10",
         "beginning_times": {
             "fajr": "2:40",
@@ -3121,7 +3121,7 @@
     },
     {
         "date": "07 June 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "11",
         "beginning_times": {
             "fajr": "2:39",
@@ -3141,7 +3141,7 @@
     },
     {
         "date": "08 June 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "12",
         "beginning_times": {
             "fajr": "2:38",
@@ -3161,7 +3161,7 @@
     },
     {
         "date": "09 June 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "13",
         "beginning_times": {
             "fajr": "2:37",
@@ -3181,7 +3181,7 @@
     },
     {
         "date": "10 June 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "14",
         "beginning_times": {
             "fajr": "2:37",
@@ -3201,7 +3201,7 @@
     },
     {
         "date": "11 June 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "15",
         "beginning_times": {
             "fajr": "2:35",
@@ -3221,7 +3221,7 @@
     },
     {
         "date": "12 June 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "16",
         "beginning_times": {
             "fajr": "2:34",
@@ -3241,7 +3241,7 @@
     },
     {
         "date": "13 June 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "17",
         "beginning_times": {
             "fajr": "2:34",
@@ -3261,7 +3261,7 @@
     },
     {
         "date": "14 June 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "18",
         "beginning_times": {
             "fajr": "2:34",
@@ -3281,7 +3281,7 @@
     },
     {
         "date": "15 June 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "19",
         "beginning_times": {
             "fajr": "2:33",
@@ -3301,7 +3301,7 @@
     },
     {
         "date": "16 June 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "20",
         "beginning_times": {
             "fajr": "2:33",
@@ -3321,7 +3321,7 @@
     },
     {
         "date": "17 June 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "21",
         "beginning_times": {
             "fajr": "2:33",
@@ -3341,7 +3341,7 @@
     },
     {
         "date": "18 June 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "22",
         "beginning_times": {
             "fajr": "2:33",
@@ -3361,7 +3361,7 @@
     },
     {
         "date": "19 June 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "23",
         "beginning_times": {
             "fajr": "2:33",
@@ -3381,7 +3381,7 @@
     },
     {
         "date": "20 June 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "24",
         "beginning_times": {
             "fajr": "2:33",
@@ -3401,7 +3401,7 @@
     },
     {
         "date": "21 June 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "25",
         "beginning_times": {
             "fajr": "2:35",
@@ -3421,7 +3421,7 @@
     },
     {
         "date": "22 June 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "26",
         "beginning_times": {
             "fajr": "2:35",
@@ -3441,7 +3441,7 @@
     },
     {
         "date": "23 June 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "27",
         "beginning_times": {
             "fajr": "2:37",
@@ -3461,7 +3461,7 @@
     },
     {
         "date": "24 June 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "28",
         "beginning_times": {
             "fajr": "2:37",
@@ -3481,7 +3481,7 @@
     },
     {
         "date": "25 June 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "29",
         "beginning_times": {
             "fajr": "2:38",
@@ -3501,7 +3501,7 @@
     },
     {
         "date": "26 June 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "1",
         "beginning_times": {
             "fajr": "MUHRM*",
@@ -3521,7 +3521,7 @@
     },
     {
         "date": "27 June 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "2",
         "beginning_times": {
             "fajr": "2:40",
@@ -3541,7 +3541,7 @@
     },
     {
         "date": "28 June 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "3",
         "beginning_times": {
             "fajr": "2:41",
@@ -3561,7 +3561,7 @@
     },
     {
         "date": "29 June 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "4",
         "beginning_times": {
             "fajr": "2:42",
@@ -3581,7 +3581,7 @@
     },
     {
         "date": "30 June 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "5",
         "beginning_times": {
             "fajr": "2:45",
@@ -3601,7 +3601,7 @@
     },
     {
         "date": "01 July 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "6",
         "beginning_times": {
             "fajr": "2:45",
@@ -3621,7 +3621,7 @@
     },
     {
         "date": "02 July 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "7",
         "beginning_times": {
             "fajr": "2:46",
@@ -3641,7 +3641,7 @@
     },
     {
         "date": "03 July 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "8",
         "beginning_times": {
             "fajr": "2:48",
@@ -3661,7 +3661,7 @@
     },
     {
         "date": "04 July 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "9",
         "beginning_times": {
             "fajr": "2:49",
@@ -3681,7 +3681,7 @@
     },
     {
         "date": "05 July 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "10",
         "beginning_times": {
             "fajr": "2:50",
@@ -3701,7 +3701,7 @@
     },
     {
         "date": "06 July 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "11",
         "beginning_times": {
             "fajr": "2:52",
@@ -3721,7 +3721,7 @@
     },
     {
         "date": "07 July 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "12",
         "beginning_times": {
             "fajr": "2:53",
@@ -3741,7 +3741,7 @@
     },
     {
         "date": "08 July 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "13",
         "beginning_times": {
             "fajr": "2:55",
@@ -3761,7 +3761,7 @@
     },
     {
         "date": "09 July 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "14",
         "beginning_times": {
             "fajr": "2:56",
@@ -3781,7 +3781,7 @@
     },
     {
         "date": "10 July 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "15",
         "beginning_times": {
             "fajr": "2:57",
@@ -3801,7 +3801,7 @@
     },
     {
         "date": "11 July 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "16",
         "beginning_times": {
             "fajr": "2:59",
@@ -3821,7 +3821,7 @@
     },
     {
         "date": "12 July 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "17",
         "beginning_times": {
             "fajr": "3:00",
@@ -3841,7 +3841,7 @@
     },
     {
         "date": "13 July 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "18",
         "beginning_times": {
             "fajr": "3:03",
@@ -3861,7 +3861,7 @@
     },
     {
         "date": "14 July 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "19",
         "beginning_times": {
             "fajr": "3:04",
@@ -3881,7 +3881,7 @@
     },
     {
         "date": "15 July 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "20",
         "beginning_times": {
             "fajr": "3:05",
@@ -3901,7 +3901,7 @@
     },
     {
         "date": "16 July 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "21",
         "beginning_times": {
             "fajr": "3:08",
@@ -3921,7 +3921,7 @@
     },
     {
         "date": "17 July 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "22",
         "beginning_times": {
             "fajr": "3:09",
@@ -3941,7 +3941,7 @@
     },
     {
         "date": "18 July 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "23",
         "beginning_times": {
             "fajr": "3:11",
@@ -3961,7 +3961,7 @@
     },
     {
         "date": "19 July 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "24",
         "beginning_times": {
             "fajr": "3:13",
@@ -3981,7 +3981,7 @@
     },
     {
         "date": "20 July 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "25",
         "beginning_times": {
             "fajr": "3:14",
@@ -4001,7 +4001,7 @@
     },
     {
         "date": "21 July 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "26",
         "beginning_times": {
             "fajr": "3:17",
@@ -4021,7 +4021,7 @@
     },
     {
         "date": "22 July 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "27",
         "beginning_times": {
             "fajr": "3:18",
@@ -4041,7 +4041,7 @@
     },
     {
         "date": "23 July 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "28",
         "beginning_times": {
             "fajr": "3:21",
@@ -4061,7 +4061,7 @@
     },
     {
         "date": "24 July 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "29",
         "beginning_times": {
             "fajr": "3:22",
@@ -4081,7 +4081,7 @@
     },
     {
         "date": "25 July 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "30",
         "beginning_times": {
             "fajr": "3:25",
@@ -4101,7 +4101,7 @@
     },
     {
         "date": "26 July 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "1",
         "beginning_times": {
             "fajr": "SFR",
@@ -4121,7 +4121,7 @@
     },
     {
         "date": "27 July 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "2",
         "beginning_times": {
             "fajr": "3:29",
@@ -4141,7 +4141,7 @@
     },
     {
         "date": "28 July 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "3",
         "beginning_times": {
             "fajr": "3:31",
@@ -4161,7 +4161,7 @@
     },
     {
         "date": "29 July 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "4",
         "beginning_times": {
             "fajr": "3:33",
@@ -4181,7 +4181,7 @@
     },
     {
         "date": "30 July 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "5",
         "beginning_times": {
             "fajr": "3:35",
@@ -4201,7 +4201,7 @@
     },
     {
         "date": "31 July 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "6",
         "beginning_times": {
             "fajr": "3:39",
@@ -4221,7 +4221,7 @@
     },
     {
         "date": "01 August 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "7",
         "beginning_times": {
             "fajr": "3:39",
@@ -4241,7 +4241,7 @@
     },
     {
         "date": "02 August 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "8",
         "beginning_times": {
             "fajr": "3:42",
@@ -4261,7 +4261,7 @@
     },
     {
         "date": "03 August 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "9",
         "beginning_times": {
             "fajr": "3:44",
@@ -4281,7 +4281,7 @@
     },
     {
         "date": "04 August 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "10",
         "beginning_times": {
             "fajr": "3:46",
@@ -4301,7 +4301,7 @@
     },
     {
         "date": "05 August 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "11",
         "beginning_times": {
             "fajr": "3:47",
@@ -4321,7 +4321,7 @@
     },
     {
         "date": "06 August 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "12",
         "beginning_times": {
             "fajr": "3:50",
@@ -4341,7 +4341,7 @@
     },
     {
         "date": "07 August 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "13",
         "beginning_times": {
             "fajr": "3:52",
@@ -4361,7 +4361,7 @@
     },
     {
         "date": "08 August 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "14",
         "beginning_times": {
             "fajr": "3:54",
@@ -4381,7 +4381,7 @@
     },
     {
         "date": "09 August 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "15",
         "beginning_times": {
             "fajr": "3:56",
@@ -4401,7 +4401,7 @@
     },
     {
         "date": "10 August 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "16",
         "beginning_times": {
             "fajr": "3:58",
@@ -4421,7 +4421,7 @@
     },
     {
         "date": "11 August 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "17",
         "beginning_times": {
             "fajr": "4:00",
@@ -4441,7 +4441,7 @@
     },
     {
         "date": "12 August 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "18",
         "beginning_times": {
             "fajr": "4:02",
@@ -4461,7 +4461,7 @@
     },
     {
         "date": "13 August 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "19",
         "beginning_times": {
             "fajr": "4:05",
@@ -4481,7 +4481,7 @@
     },
     {
         "date": "14 August 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "20",
         "beginning_times": {
             "fajr": "4:06",
@@ -4501,7 +4501,7 @@
     },
     {
         "date": "15 August 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "21",
         "beginning_times": {
             "fajr": "4:08",
@@ -4521,7 +4521,7 @@
     },
     {
         "date": "16 August 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "22",
         "beginning_times": {
             "fajr": "4:10",
@@ -4541,7 +4541,7 @@
     },
     {
         "date": "17 August 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "23",
         "beginning_times": {
             "fajr": "4:13",
@@ -4561,7 +4561,7 @@
     },
     {
         "date": "18 August 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "24",
         "beginning_times": {
             "fajr": "4:14",
@@ -4581,7 +4581,7 @@
     },
     {
         "date": "19 August 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "25",
         "beginning_times": {
             "fajr": "4:17",
@@ -4601,7 +4601,7 @@
     },
     {
         "date": "20 August 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "26",
         "beginning_times": {
             "fajr": "4:19",
@@ -4621,7 +4621,7 @@
     },
     {
         "date": "21 August 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "27*",
         "beginning_times": {
             "fajr": "4:21",
@@ -4641,7 +4641,7 @@
     },
     {
         "date": "22 August 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "28",
         "beginning_times": {
             "fajr": "4:23",
@@ -4661,7 +4661,7 @@
     },
     {
         "date": "23 August 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "29",
         "beginning_times": {
             "fajr": "4:24",
@@ -4681,7 +4681,7 @@
     },
     {
         "date": "24 August 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "1",
         "beginning_times": {
             "fajr": "R.AWAL",
@@ -4701,7 +4701,7 @@
     },
     {
         "date": "25 August 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "2",
         "beginning_times": {
             "fajr": "4:26",
@@ -4721,7 +4721,7 @@
     },
     {
         "date": "26 August 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "3",
         "beginning_times": {
             "fajr": "4:27",
@@ -4741,7 +4741,7 @@
     },
     {
         "date": "27 August 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "4",
         "beginning_times": {
             "fajr": "4:28",
@@ -4761,7 +4761,7 @@
     },
     {
         "date": "28 August 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "5",
         "beginning_times": {
             "fajr": "4:29",
@@ -4781,7 +4781,7 @@
     },
     {
         "date": "29 August 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "6",
         "beginning_times": {
             "fajr": "4:30",
@@ -4801,7 +4801,7 @@
     },
     {
         "date": "30 August 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "7",
         "beginning_times": {
             "fajr": "4:31",
@@ -4821,7 +4821,7 @@
     },
     {
         "date": "31 August 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "8",
         "beginning_times": {
             "fajr": "4:33",
@@ -4841,7 +4841,7 @@
     },
     {
         "date": "01 September 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "9",
         "beginning_times": {
             "fajr": "4:33",
@@ -4861,7 +4861,7 @@
     },
     {
         "date": "02 September 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "10",
         "beginning_times": {
             "fajr": "4:36",
@@ -4881,7 +4881,7 @@
     },
     {
         "date": "03 September 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "11",
         "beginning_times": {
             "fajr": "4:38",
@@ -4901,7 +4901,7 @@
     },
     {
         "date": "04 September 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "12",
         "beginning_times": {
             "fajr": "4:40",
@@ -4921,7 +4921,7 @@
     },
     {
         "date": "05 September 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "13",
         "beginning_times": {
             "fajr": "4:43",
@@ -4941,7 +4941,7 @@
     },
     {
         "date": "06 September 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "14",
         "beginning_times": {
             "fajr": "4:45",
@@ -4961,7 +4961,7 @@
     },
     {
         "date": "07 September 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "15",
         "beginning_times": {
             "fajr": "4:47",
@@ -4981,7 +4981,7 @@
     },
     {
         "date": "08 September 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "16",
         "beginning_times": {
             "fajr": "4:49",
@@ -5001,7 +5001,7 @@
     },
     {
         "date": "09 September 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "17",
         "beginning_times": {
             "fajr": "4:52",
@@ -5021,7 +5021,7 @@
     },
     {
         "date": "10 September 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "18",
         "beginning_times": {
             "fajr": "4:54",
@@ -5041,7 +5041,7 @@
     },
     {
         "date": "11 September 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "19",
         "beginning_times": {
             "fajr": "4:56",
@@ -5061,7 +5061,7 @@
     },
     {
         "date": "12 September 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "20",
         "beginning_times": {
             "fajr": "4:58",
@@ -5081,7 +5081,7 @@
     },
     {
         "date": "13 September 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "21",
         "beginning_times": {
             "fajr": "5:00",
@@ -5101,7 +5101,7 @@
     },
     {
         "date": "14 September 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "22",
         "beginning_times": {
             "fajr": "5:02",
@@ -5121,7 +5121,7 @@
     },
     {
         "date": "15 September 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "23",
         "beginning_times": {
             "fajr": "5:05",
@@ -5141,7 +5141,7 @@
     },
     {
         "date": "16 September 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "24",
         "beginning_times": {
             "fajr": "5:08",
@@ -5161,7 +5161,7 @@
     },
     {
         "date": "17 September 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "25",
         "beginning_times": {
             "fajr": "5:10",
@@ -5181,7 +5181,7 @@
     },
     {
         "date": "18 September 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "26",
         "beginning_times": {
             "fajr": "5:12",
@@ -5201,7 +5201,7 @@
     },
     {
         "date": "19 September 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "27",
         "beginning_times": {
             "fajr": "5:14",
@@ -5221,7 +5221,7 @@
     },
     {
         "date": "20 September 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "28",
         "beginning_times": {
             "fajr": "5:15",
@@ -5241,7 +5241,7 @@
     },
     {
         "date": "21 September 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "29",
         "beginning_times": {
             "fajr": "5:18",
@@ -5261,7 +5261,7 @@
     },
     {
         "date": "22 September 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "30",
         "beginning_times": {
             "fajr": "5:20",
@@ -5281,7 +5281,7 @@
     },
     {
         "date": "23 September 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "1",
         "beginning_times": {
             "fajr": "R.AKHIR",
@@ -5301,7 +5301,7 @@
     },
     {
         "date": "24 September 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "2",
         "beginning_times": {
             "fajr": "5:23",
@@ -5321,7 +5321,7 @@
     },
     {
         "date": "25 September 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "3",
         "beginning_times": {
             "fajr": "5:25",
@@ -5341,7 +5341,7 @@
     },
     {
         "date": "26 September 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "4",
         "beginning_times": {
             "fajr": "5:27",
@@ -5361,7 +5361,7 @@
     },
     {
         "date": "27 September 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "5",
         "beginning_times": {
             "fajr": "5:29",
@@ -5381,7 +5381,7 @@
     },
     {
         "date": "28 September 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "6",
         "beginning_times": {
             "fajr": "5:31",
@@ -5401,7 +5401,7 @@
     },
     {
         "date": "29 September 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "7",
         "beginning_times": {
             "fajr": "5:32",
@@ -5421,7 +5421,7 @@
     },
     {
         "date": "30 September 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "8",
         "beginning_times": {
             "fajr": "5:36",
@@ -5441,7 +5441,7 @@
     },
     {
         "date": "01 October 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "9",
         "beginning_times": {
             "fajr": "5:36",
@@ -5461,7 +5461,7 @@
     },
     {
         "date": "02 October 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "10",
         "beginning_times": {
             "fajr": "5:38",
@@ -5481,7 +5481,7 @@
     },
     {
         "date": "03 October 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "11",
         "beginning_times": {
             "fajr": "5:40",
@@ -5501,7 +5501,7 @@
     },
     {
         "date": "04 October 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "12",
         "beginning_times": {
             "fajr": "5:42",
@@ -5521,7 +5521,7 @@
     },
     {
         "date": "05 October 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "13",
         "beginning_times": {
             "fajr": "5:44",
@@ -5541,7 +5541,7 @@
     },
     {
         "date": "06 October 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "14",
         "beginning_times": {
             "fajr": "5:46",
@@ -5561,7 +5561,7 @@
     },
     {
         "date": "07 October 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "15",
         "beginning_times": {
             "fajr": "5:47",
@@ -5581,7 +5581,7 @@
     },
     {
         "date": "08 October 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "16",
         "beginning_times": {
             "fajr": "5:49",
@@ -5601,7 +5601,7 @@
     },
     {
         "date": "09 October 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "17",
         "beginning_times": {
             "fajr": "5:51",
@@ -5621,7 +5621,7 @@
     },
     {
         "date": "10 October 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "18",
         "beginning_times": {
             "fajr": "5:53",
@@ -5641,7 +5641,7 @@
     },
     {
         "date": "11 October 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "19",
         "beginning_times": {
             "fajr": "5:55",
@@ -5661,7 +5661,7 @@
     },
     {
         "date": "12 October 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "20",
         "beginning_times": {
             "fajr": "5:57",
@@ -5681,7 +5681,7 @@
     },
     {
         "date": "13 October 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "21",
         "beginning_times": {
             "fajr": "5:58",
@@ -5701,7 +5701,7 @@
     },
     {
         "date": "14 October 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "22",
         "beginning_times": {
             "fajr": "6:00",
@@ -5721,7 +5721,7 @@
     },
     {
         "date": "15 October 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "23",
         "beginning_times": {
             "fajr": "6:01",
@@ -5741,7 +5741,7 @@
     },
     {
         "date": "16 October 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "24",
         "beginning_times": {
             "fajr": "6:02",
@@ -5761,7 +5761,7 @@
     },
     {
         "date": "17 October 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "25",
         "beginning_times": {
             "fajr": "6:04",
@@ -5781,7 +5781,7 @@
     },
     {
         "date": "18 October 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "26",
         "beginning_times": {
             "fajr": "6:06",
@@ -5801,7 +5801,7 @@
     },
     {
         "date": "19 October 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "27",
         "beginning_times": {
             "fajr": "6:08",
@@ -5821,7 +5821,7 @@
     },
     {
         "date": "20 October 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "28",
         "beginning_times": {
             "fajr": "6:09",
@@ -5841,7 +5841,7 @@
     },
     {
         "date": "21 October 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "29",
         "beginning_times": {
             "fajr": "6:11",
@@ -5861,7 +5861,7 @@
     },
     {
         "date": "22 October 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "30",
         "beginning_times": {
             "fajr": "6:12",
@@ -5881,7 +5881,7 @@
     },
     {
         "date": "23 October 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "1",
         "beginning_times": {
             "fajr": "J.AWL",
@@ -5901,7 +5901,7 @@
     },
     {
         "date": "24 October 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "2",
         "beginning_times": {
             "fajr": "6:15",
@@ -5921,7 +5921,7 @@
     },
     {
         "date": "25 October 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "3",
         "beginning_times": {
             "fajr": "6:16",
@@ -5941,7 +5941,7 @@
     },
     {
         "date": "27 October 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "5",
         "beginning_times": {
             "fajr": "5:20",
@@ -5961,7 +5961,7 @@
     },
     {
         "date": "28 October 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "6",
         "beginning_times": {
             "fajr": "5:21",
@@ -5981,7 +5981,7 @@
     },
     {
         "date": "29 October 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "7",
         "beginning_times": {
             "fajr": "5:23",
@@ -6001,7 +6001,7 @@
     },
     {
         "date": "30 October 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "8",
         "beginning_times": {
             "fajr": "5:25",
@@ -6021,7 +6021,7 @@
     },
     {
         "date": "31 October 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "9",
         "beginning_times": {
             "fajr": "5:29",
@@ -6041,7 +6041,7 @@
     },
     {
         "date": "01 November 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "10",
         "beginning_times": {
             "fajr": "5:29",
@@ -6061,7 +6061,7 @@
     },
     {
         "date": "02 November 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "11",
         "beginning_times": {
             "fajr": "5:31",
@@ -6081,7 +6081,7 @@
     },
     {
         "date": "03 November 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "12",
         "beginning_times": {
             "fajr": "5:32",
@@ -6101,7 +6101,7 @@
     },
     {
         "date": "04 November 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "13",
         "beginning_times": {
             "fajr": "5:34",
@@ -6121,7 +6121,7 @@
     },
     {
         "date": "05 November 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "14",
         "beginning_times": {
             "fajr": "5:35",
@@ -6141,7 +6141,7 @@
     },
     {
         "date": "06 November 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "15",
         "beginning_times": {
             "fajr": "5:36",
@@ -6161,7 +6161,7 @@
     },
     {
         "date": "07 November 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "16",
         "beginning_times": {
             "fajr": "5:38",
@@ -6181,7 +6181,7 @@
     },
     {
         "date": "08 November 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "17",
         "beginning_times": {
             "fajr": "5:40",
@@ -6201,7 +6201,7 @@
     },
     {
         "date": "09 November 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "18",
         "beginning_times": {
             "fajr": "5:41",
@@ -6221,7 +6221,7 @@
     },
     {
         "date": "10 November 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "19",
         "beginning_times": {
             "fajr": "5:43",
@@ -6241,7 +6241,7 @@
     },
     {
         "date": "11 November 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "20",
         "beginning_times": {
             "fajr": "5:45",
@@ -6261,7 +6261,7 @@
     },
     {
         "date": "12 November 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "21",
         "beginning_times": {
             "fajr": "5:46",
@@ -6281,7 +6281,7 @@
     },
     {
         "date": "13 November 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "22",
         "beginning_times": {
             "fajr": "5:48",
@@ -6301,7 +6301,7 @@
     },
     {
         "date": "14 November 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "23",
         "beginning_times": {
             "fajr": "5:50",
@@ -6321,7 +6321,7 @@
     },
     {
         "date": "15 November 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "24",
         "beginning_times": {
             "fajr": "5:50",
@@ -6341,7 +6341,7 @@
     },
     {
         "date": "16 November 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "25",
         "beginning_times": {
             "fajr": "5:52",
@@ -6361,7 +6361,7 @@
     },
     {
         "date": "17 November 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "26",
         "beginning_times": {
             "fajr": "5:54",
@@ -6381,7 +6381,7 @@
     },
     {
         "date": "18 November 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "27",
         "beginning_times": {
             "fajr": "5:56",
@@ -6401,7 +6401,7 @@
     },
     {
         "date": "19 November 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "28",
         "beginning_times": {
             "fajr": "5:58",
@@ -6421,7 +6421,7 @@
     },
     {
         "date": "20 November 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "29",
         "beginning_times": {
             "fajr": "5:59",
@@ -6441,7 +6441,7 @@
     },
     {
         "date": "21 November 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "30",
         "beginning_times": {
             "fajr": "6:01",
@@ -6461,7 +6461,7 @@
     },
     {
         "date": "22 November 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "1",
         "beginning_times": {
             "fajr": "J.AKHIR",
@@ -6481,7 +6481,7 @@
     },
     {
         "date": "23 November 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "2",
         "beginning_times": {
             "fajr": "6:05",
@@ -6501,7 +6501,7 @@
     },
     {
         "date": "24 November 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "3",
         "beginning_times": {
             "fajr": "6:06",
@@ -6521,7 +6521,7 @@
     },
     {
         "date": "25 November 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "4",
         "beginning_times": {
             "fajr": "6:08",
@@ -6541,7 +6541,7 @@
     },
     {
         "date": "26 November 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "5",
         "beginning_times": {
             "fajr": "6:10",
@@ -6561,7 +6561,7 @@
     },
     {
         "date": "27 November 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "6",
         "beginning_times": {
             "fajr": "6:11",
@@ -6581,7 +6581,7 @@
     },
     {
         "date": "28 November 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "7",
         "beginning_times": {
             "fajr": "6:13",
@@ -6601,7 +6601,7 @@
     },
     {
         "date": "29 November 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "8",
         "beginning_times": {
             "fajr": "6:14",
@@ -6621,7 +6621,7 @@
     },
     {
         "date": "30 November 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "9",
         "beginning_times": {
             "fajr": "6:16",
@@ -6641,7 +6641,7 @@
     },
     {
         "date": "01 December 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "10",
         "beginning_times": {
             "fajr": "6:16",
@@ -6661,7 +6661,7 @@
     },
     {
         "date": "02 December 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "11",
         "beginning_times": {
             "fajr": "6:17",
@@ -6681,7 +6681,7 @@
     },
     {
         "date": "03 December 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "12",
         "beginning_times": {
             "fajr": "6:18",
@@ -6701,7 +6701,7 @@
     },
     {
         "date": "04 December 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "13",
         "beginning_times": {
             "fajr": "6:20",
@@ -6721,7 +6721,7 @@
     },
     {
         "date": "05 December 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "14",
         "beginning_times": {
             "fajr": "6:21",
@@ -6741,7 +6741,7 @@
     },
     {
         "date": "06 December 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "15",
         "beginning_times": {
             "fajr": "6:22",
@@ -6761,7 +6761,7 @@
     },
     {
         "date": "07 December 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "16",
         "beginning_times": {
             "fajr": "6:23",
@@ -6781,7 +6781,7 @@
     },
     {
         "date": "08 December 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "17",
         "beginning_times": {
             "fajr": "6:24",
@@ -6801,7 +6801,7 @@
     },
     {
         "date": "09 December 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "18",
         "beginning_times": {
             "fajr": "6:25",
@@ -6821,7 +6821,7 @@
     },
     {
         "date": "10 December 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "19",
         "beginning_times": {
             "fajr": "6:26",
@@ -6841,7 +6841,7 @@
     },
     {
         "date": "11 December 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "20",
         "beginning_times": {
             "fajr": "6:27",
@@ -6861,7 +6861,7 @@
     },
     {
         "date": "12 December 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "21",
         "beginning_times": {
             "fajr": "6:28",
@@ -6881,7 +6881,7 @@
     },
     {
         "date": "13 December 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "22",
         "beginning_times": {
             "fajr": "6:28",
@@ -6901,7 +6901,7 @@
     },
     {
         "date": "14 December 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "23",
         "beginning_times": {
             "fajr": "6:29",
@@ -6921,7 +6921,7 @@
     },
     {
         "date": "15 December 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "24",
         "beginning_times": {
             "fajr": "6:30",
@@ -6941,7 +6941,7 @@
     },
     {
         "date": "16 December 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "25",
         "beginning_times": {
             "fajr": "6:31",
@@ -6961,7 +6961,7 @@
     },
     {
         "date": "17 December 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "26",
         "beginning_times": {
             "fajr": "6:31",
@@ -6981,7 +6981,7 @@
     },
     {
         "date": "18 December 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "27",
         "beginning_times": {
             "fajr": "6:32",
@@ -7001,7 +7001,7 @@
     },
     {
         "date": "19 December 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "28",
         "beginning_times": {
             "fajr": "6:33",
@@ -7021,7 +7021,7 @@
     },
     {
         "date": "20 December 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "29",
         "beginning_times": {
             "fajr": "6:33",
@@ -7041,7 +7041,7 @@
     },
     {
         "date": "21 December 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "1",
         "beginning_times": {
             "fajr": "RJB",
@@ -7061,7 +7061,7 @@
     },
     {
         "date": "22 December 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "2",
         "beginning_times": {
             "fajr": "6:34",
@@ -7081,7 +7081,7 @@
     },
     {
         "date": "23 December 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "3",
         "beginning_times": {
             "fajr": "6:34",
@@ -7101,7 +7101,7 @@
     },
     {
         "date": "24 December 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "4",
         "beginning_times": {
             "fajr": "6:35",
@@ -7121,7 +7121,7 @@
     },
     {
         "date": "25 December 2025",
-        "day": "THU",
+        "day": "Thursday",
         "hijri_date": "5",
         "beginning_times": {
             "fajr": "6:35",
@@ -7141,7 +7141,7 @@
     },
     {
         "date": "26 December 2025",
-        "day": "FRI",
+        "day": "Friday",
         "hijri_date": "6",
         "beginning_times": {
             "fajr": "6:35",
@@ -7161,7 +7161,7 @@
     },
     {
         "date": "27 December 2025",
-        "day": "SAT",
+        "day": "Saturday",
         "hijri_date": "7",
         "beginning_times": {
             "fajr": "6:36",
@@ -7181,7 +7181,7 @@
     },
     {
         "date": "28 December 2025",
-        "day": "SUN",
+        "day": "Sunday",
         "hijri_date": "8",
         "beginning_times": {
             "fajr": "6:36",
@@ -7201,7 +7201,7 @@
     },
     {
         "date": "29 December 2025",
-        "day": "MON",
+        "day": "Monday",
         "hijri_date": "9",
         "beginning_times": {
             "fajr": "6:36",
@@ -7221,7 +7221,7 @@
     },
     {
         "date": "30 December 2025",
-        "day": "TUE",
+        "day": "Tuesday",
         "hijri_date": "10",
         "beginning_times": {
             "fajr": "6:36",
@@ -7241,7 +7241,7 @@
     },
     {
         "date": "31 December 2025",
-        "day": "WED",
+        "day": "Wednesday",
         "hijri_date": "11",
         "beginning_times": {
             "fajr": "6:36",

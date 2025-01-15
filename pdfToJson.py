@@ -44,8 +44,13 @@ def parse_line_to_dict(line, previous_day_data, current_month_year):
         if not (1 <= day <= 31):
             raise ValueError(f"Invalid day {day} for month {month} in year {year}")
 
-        # Format the full date
+        # Assuming the existing code where you extract the date and format it
         date_obj = datetime(year, month, day)
+
+        # Get the full day name (e.g., "Monday", "Tuesday")
+        day_name = date_obj.strftime("%A")  # Full weekday name (e.g., "Monday")
+
+        # Format the full date
         date_formatted = date_obj.strftime("%d %B %Y")
 
         # Extract Hijri date
