@@ -31,7 +31,6 @@ def parse_line_to_dict(line, previous_day_data, current_month_year):
         day_name = parts[1]  # Extract day name (e.g., MON, TUE)
 
         if day == 1:
-            print(parts)
             current_month_year["month"] += 1
             if current_month_year["month"] > 12:  # Prevent rollover
                 current_month_year["month"] = 12
@@ -142,7 +141,7 @@ def parse_line_to_dict(line, previous_day_data, current_month_year):
         print(f"Error parsing line: {line}, Error: {e}")
         return None, False  # Return None and invalid flag if there's an error
 
-def pdf_to_structured_json(pdf_file_path, json_file_path, start_month=0, start_year=2024):
+def pdf_to_structured_json(pdf_file_path, json_file_path, start_month=0, start_year=2025):
     data = []
     current_month_year = {"month": start_month, "year": start_year}
 
@@ -166,4 +165,4 @@ def pdf_to_structured_json(pdf_file_path, json_file_path, start_month=0, start_y
 
 
 # Example usage
-pdf_to_structured_json("Taiyabah_Salah_2024_Digital.pdf", "structured_output.json")
+pdf_to_structured_json("taiyabah_timetable_2025.pdf", "structured_output.json")
